@@ -1,0 +1,89 @@
+# STREAMACCOUNT MODULE - en_US
+#
+# Copyright (C) 2020 SuperAdmin
+
+#
+# Generic
+#
+Stream Account = Stream Account
+Module910001Name = Stream Account
+Stream AccountDescription = Stream Account
+Module910001Desc = Stream Account
+
+#
+# Permissions
+#
+ReadPermission = Allow read
+CreatePermission = Allow create
+ModifyPermission = Allow modify
+DeletePermission = Allow delete
+
+#
+# Menus
+#
+Index = Index
+New = New
+List = List
+
+#
+# Setup
+#
+Setup = Setup
+Settings = Settings
+Changelog = Changelog
+About = About
+Option = Option
+Value = Value
+NumberingModels = Numbering models
+DocumentModels = Document models
+DocModelAzurDescription = PDF template Azur. A complete document model (recommended template)
+DocModelCrabeDescription = PDF template Crabe. A complete document model (logo...)
+NoSetupAvailable = No setup available.
+
+#
+# About
+#
+DevelopedBy = Developed by
+ForAnyQuestions = For any questions or feedback, please send an e-mail to
+FindMyModules = Find our other modules on
+Dolistore = Dolistore
+ReportBug = Report a bug
+TechnicalInformations = Technical informations
+DolibarrVersion = Dolibarr version
+ModuleVersion = Module version
+PHPVersion = PHP version
+DatabaseVersion = Database version
+WebServerVersion = Web server version
+ReportBugNotice = The technical informations below should be provided in your bug report, in addition of file %s to increase the chance of fixing the bug quickly.
+EnableLogModule = Debug Logs module is not enabled %s
+ClickToEnable = Click to enable
+CheckForUpdates = Check for updates
+ModuleUpdateAvailable = Version %s is available
+ModuleIsUpToDate = Module is up to date
+CouldNotCheckForModuleUpdates = Could not check for module updates
+
+#
+# Changelog
+#
+Version = Version
+PublicationDate = Publication Date
+Details = Details
+NoChangelogAvailable = No changelog available.
+
+#
+# Validation
+#
+ErrorFieldMustBeGreaterThan = Field '%s' must be greater than %s
+ErrorFieldMustBeLessThan = Field '%s' must be less than %s
+ErrorFieldMustHaveMinLength = Field '%s' must have a minimum length of %s characters
+ErrorFieldMustHaveMaxLength = Field '%s' must have a maximum length of %s characters
+
+#
+# Card
+#
+ConfirmDelete = Do you want to delete <b>%s</b> ?
+MailSubject = Submission of document __REF__
+MailTemplate = Hello,\n\nYou will find here the document __REF__.\n\nSincerely\n\n__SIGNATURE__
+
+Insuffisantrights=Ups! Permisos Insuficientes.
+socidfieldmissing=No hay un cliente asignado, vuelve al paso 1;
